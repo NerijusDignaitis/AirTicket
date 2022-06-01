@@ -1,0 +1,21 @@
+body {
+    box-sizing: border-box;
+    padding: 30px;
+    height: 100vh;
+}
+
+.table{
+    height: 30%;
+    background-color: white;
+    border: 1px solid black;
+}
+
+th{
+    background-color: lightgray;
+    text-align: center;
+    height: 10%;
+}
+td{
+    vertical-align: middle;
+}
+
